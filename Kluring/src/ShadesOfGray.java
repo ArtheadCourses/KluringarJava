@@ -6,7 +6,7 @@ public class ShadesOfGray {
 
 class X{
 	static class Y{
-		static String Z = "Black";
+		static String Z = "Gray";
 	}
 
 	static C Y = new C();
